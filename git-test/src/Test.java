@@ -1,7 +1,9 @@
 
 public class Test {
-
-	String a="";
+	
+	public void prova() {
+		
+	}
 
 }
 
