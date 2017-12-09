@@ -2,8 +2,6 @@
 public class Test {
 	
 	public void prova() {
-		String a = null;
-	}
-
+		String a = "mmm";
+		}
 }
-
